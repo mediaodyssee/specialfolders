@@ -14,22 +14,22 @@ Desktop folder::
 Documents folder::
     
     import specialfolders
-    print(specialfolders.get_desktop_folder())
+    print(specialfolders.get_documents_folder())
 
 Pictures folder::
     
     import specialfolders
-    print(specialfolders.get_desktop_folder())
+    print(specialfolders.get_pictures_folder())
 
 Videos folder::
     
     import specialfolders
-    print(specialfolders.get_desktop_folder())
+    print(specialfolders.get_videos_folder())
 
 Downloads folder::
     
     import specialfolders
-    print(specialfolders.get_desktop_folder())
+    print(specialfolders.get_downloads_folder())
 
 
 Retrieving all special folders at once in a dictionary
