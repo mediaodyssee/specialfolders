@@ -1,0 +1,15 @@
+*.egg-info
+*.pyc
+*.*~
+*.orig
+*.old
+.*.swp
+build
+dist
+cache
+MANIFEST
+_build
+_static
+.settings
+.DS_Store
+.coverage
