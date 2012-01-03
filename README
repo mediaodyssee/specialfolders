@@ -1,0 +1,18 @@
+A cross-platform library to retrieve the current user's special folders (like
+Images, Documents, Videos etc.).
+
+Installation
+------------
+
+$ pip install specialfolders
+
+or if you prefer easy_install:
+
+$ easy_install specialfolders
+
+Usage examples
+--------------
+
+>>> import specialfolders
+>>> specialfolders.get_music_folder()
+u'/home/izi/Musique'

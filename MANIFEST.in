@@ -1,0 +1,3 @@
+include CHANGELOG INSTALL LICENSE MANIFEST.in README
+recursive-include docs/ *
+prune docs/_build
